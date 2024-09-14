@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junbin (June) Yang
-- 🎓 I'm a rising second year at Georgia Tech studying CS
+- 🎓 I'm a second year undergraduate student at Georgia Tech studying CS
 - 👀 I’m interested in computer systems and processors
 - 🌱 I’m currently learning advanced computer architecture
 
